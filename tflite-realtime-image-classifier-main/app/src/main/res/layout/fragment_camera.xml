@@ -6,6 +6,6 @@
     <com.aiden.tflite.realtime_image_classifier.AutoFitTextureView
         android:id="@+id/texture_camera"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
+        android:layout_height="473dp" />
 
 </FrameLayout>
