@@ -30,6 +30,8 @@ class Classifier(private var context: Context, private val modelName: String) {
     private val labels = mutableListOf<String>()
     private var isInitialized = false
 
+
+
     fun init() {
         model = createGPUModel(context, modelName)
         initModelShape()
