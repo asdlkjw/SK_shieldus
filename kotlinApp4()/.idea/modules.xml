@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinApp4(괄호삭제요망).iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinApp4(괄호삭제요망).iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/kotlinApp4(괄호삭제요망).Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/kotlinApp4(괄호삭제요망).Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlinApp4().iml" filepath="$PROJECT_DIR$/.idea/modules/kotlinApp4().iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/kotlinApp4().Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/kotlinApp4().Application.iml" />
     </modules>
   </component>
 </project>
